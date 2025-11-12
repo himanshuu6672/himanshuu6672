@@ -22,7 +22,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-himanshu6672@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himamshusharma307@gmail.com)
+[![Email](https://img.shields.io/badge/Email-himamshusharma307@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himamshusharma307@gmail.com)
 
 ---
 
