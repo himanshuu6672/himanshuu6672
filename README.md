@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Python-Django projects**
-- 🌱 I’m exploring **Flask, Tkinter, and Full Stack Web Development**
+- 🔭 I’m currently working on **3d game development projects**
+- 🌱 I’m exploring **Python, Ethical Hacking and Full Stack Web Development**
 - 👨‍💻 Passionate about **building secure and scalable web applications**
-- 💬 Ask me about **Python, Django, Flask, Ethical Hacking**
+- 💬 Ask me about **Python, Web Development, Ethical Hacking**
 - ⚡ Fun fact: I love solving coding challenges and learning new frameworks
 
 ---
