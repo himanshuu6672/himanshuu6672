@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/himanshuu6672/himanshuu6672/main/githubbanner.png)
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20👋,%20I'm%20Himanshu!&fontSize=40&fontColor=ffffff)
 
 <div align="center">
