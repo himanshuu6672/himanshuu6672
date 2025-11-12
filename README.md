@@ -22,9 +22,7 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
-[![Email](https://img.shields.io/badge/Email-himanshu6672@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu6672@gmail.com)
+[![Email](https://img.shields.io/badge/Email-himanshu6672@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himamshusharma307@gmail.com)
 
 ---
 
@@ -47,8 +45,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshuu6672&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
