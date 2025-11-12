@@ -1,17 +1,22 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20👋,%20I'm%20Himanshu!&fontSize=40&fontColor=ffffff)
-# 👋 Hi, I'm Himanshu
-### 🐍 Python Enthusiast | 💻 Full Stack Developer | 🛡️ Ethical Hacker  
+
+<div align="center">
+
+# 🐍 Python Enthusiast | 💻 Full Stack Developer | 🛡️ Ethical Hacker  
+### 🚀 Exploring 3D Game Development | Web Security | Full Stack Development  
 
 ![Profile views](https://komarev.com/ghpvc/?username=himanshuu6672&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **3d game development projects**
-- 🌱 I’m exploring **Python, Ethical Hacking and Full Stack Web Development**
+- 🔭 I’m currently working on **3D Game Development Projects**
+- 🌱 I’m exploring **Python, Ethical Hacking, and Full Stack Web Development**
 - 👨‍💻 Passionate about **building secure and scalable web applications**
-- 💬 Ask me about **Python, Web Development, Ethical Hacking**
-- ⚡ Fun fact: I love solving coding challenges and learning new frameworks
+- 💬 Ask me about **Python, Web Development, and Ethical Hacking**
+- ⚡ Fun fact: I love solving coding challenges and learning new frameworks!
 
 ---
 
@@ -42,21 +47,36 @@
 
 ---
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshuu6672&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=himanshuu6672&theme=onedark&no-frame=true&margin-w=15)
 
 ---
 
+### 🧾 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshuu6672&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshuu6672&theme=tokyonight)
+![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshuu6672&theme=tokyonight)
+
+---
+
 ### 🧩 Fun Projects
-- 🔐 Ethical Hacking tools in Python  
-- 🌐 Web apps using Django and Flask  
-- 🖥️ GUI apps using Tkinter  
+- 🔐 **Ethical Hacking tools in Python**  
+- 🌐 **Web apps using Django and Flask**  
+- 🖥️ **GUI apps using Tkinter**  
+- 🎮 **3D Games built with Python frameworks**
 
 ---
 
 ### ✨ Quote of the Day
-> "Code is like humor. When you have to explain it, it’s bad."
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer)
 
 ⭐️ From [himanshuu6672](https://github.com/himanshuu6672)
