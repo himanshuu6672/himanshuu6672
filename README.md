@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 🐍 Python Enthusiast | 💻 Full Stack Developer | 🛡️ Ethical Hacker  
+# 🐍 Python Enthusiast | 💻 Full Stack Developer | 🛡️ Security Consultant 
 ### 🚀 Exploring 3D Game Development | Web Security | Full Stack Development  
 
 ![Profile views](https://komarev.com/ghpvc/?username=himanshuu6672&color=blueviolet&style=flat-square)
@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **3D Game Development Projects**
-- 🌱 I’m exploring **Python, Ethical Hacking, and Full Stack Web Development**
+- 🌱 I’m exploring **Python, Cyber Security and Full Stack Web Development**
 - 👨‍💻 Passionate about **building secure and scalable web applications**
-- 💬 Ask me about **Python, Web Development, and Ethical Hacking**
+- 💬 Ask me about **Python, Web Development, and Linux**
 - ⚡ Fun fact: I love solving coding challenges and learning new frameworks!
 
 ---
